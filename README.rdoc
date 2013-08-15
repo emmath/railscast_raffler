@@ -1,0 +1,4 @@
+Raffler!
+
+an app built with the railscast process to practice ember.js skills and randomly select winners.
+
